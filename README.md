@@ -68,6 +68,9 @@ In the tab **Profiles**, create a new one with the "+" icon, and rename it to yo
 
 When done, hit the red "X" in the upper left (saving is automatic in OS X preference panes). Close the window and open a new one to see the size change.
 
+To open the iTerm from a finder directory, we need write an apple script (copied from: http://peterdowns.com/posts/open-iterm-finder-service.html) 
+Download the openiTerm file and drag it onto the Finder window while holding the command key. Everytime when click it, it will open iTerm2.
+
 ## Homebrew
 
 Package managers make it so much easier to install and update applications (for Operating Systems) or libraries (for programming languages). The most popular one for OS X is [Homebrew](http://brew.sh/).

@@ -46,7 +46,9 @@ In **Apple Icon > System Preferences**:
 - Trackpad > Tap to click
 - Keyboard > Key Repeat > Fast (all the way to the right)
 - Keyboard > Delay Until Repeat > Short (all the way to the right)
+- Keyboard > Input Sources > Select the previous input source (shift + command + space)
 - Dock > Automatically hide and show the Dock
+- Accessibility > Mouse & Trackpad > Trackpad Options > Enabling dragging
 
 ## Google Chrome
 

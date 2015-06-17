@@ -15,6 +15,7 @@ If you have any comments or suggestions, feel free to give me a shout [on Twitte
 - [Beautiful terminal](#beautiful-terminal)
 - [iTerm2](#iterm2)
 - [Git](#git)
+- [AWS](#aws)
 - [Sublime Text](#sublime-text)
 - [Vim](#vim)
 - [Python](#python)
@@ -214,6 +215,10 @@ To push code to your GitHub repositories, we're going to use the recommended HTT
     
 **Note**: On a Mac, it is important to remember to add `.DS_Store` (a hidden OS X system file that's put in folders) to your `.gitignore` files. You can take a look at this repository's [.gitignore](https://github.com/nicolashery/mac-dev-setup/blob/master/.gitignore) file for inspiration.
     
+## AWS
+
+The AWS command line tool is pretty handy especially when want to download files from S3 storage. Here's the link to the installation page: http://docs.aws.amazon.com/cli/latest/userguide/installing.html.
+
 ## Sublime Text
 
 With the terminal, the text editor is a developer's most important tool. Everyone has their preferences, but unless you're a hardcore [Vim](http://en.wikipedia.org/wiki/Vim_(text_editor)) user, a lot of people are going to tell you that [Sublime Text](http://www.sublimetext.com/) is currently the best one out there.
